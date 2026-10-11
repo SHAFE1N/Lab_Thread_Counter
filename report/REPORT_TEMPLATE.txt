@@ -1,0 +1,44 @@
+SEPM-001 LAB REPORT — THREAD COUNTER
+
+Student name: ______________________________
+Student ID / Roll: __________________________
+Course: Software Engineering and Project Management
+Experiment title: Comparison of Thread Counting Using Static and Non-Static Variables
+Date: ______________________________________
+
+1. Objective
+[Write the objective in your own words.]
+
+2. Tools and environment
+- Java/JDK version: _________________________
+- Operating system: _________________________
+- IDE or terminal used: _____________________
+
+3. Source code
+[Insert your handwritten Java code as clear scanned pages or photographs.]
+
+4. Test inputs
+[Include all seven test cases: N = 1, 2, 5, 10, 20, 50, 100 and the assigned K values.]
+
+5. Program outputs
+[Insert screenshots of your actual safe and unsafe runs. Do not fabricate output.]
+
+6. Result analysis
+[Include the completed result table. For the unsafe mode, include at least five runs per thread count or the required average percentage difference.]
+
+Formulae:
+E = N × K
+D = |S − I|
+P = (|S − I| / I) × 100, when I ≠ 0
+
+7. Answers to analysis questions
+[Answer all nine questions from the assignment.]
+
+8. Observation
+[Describe what your actual results show. Explain any variation between repeated unsafe runs.]
+
+9. Conclusion
+[Write a conclusion supported by your recorded outputs.]
+
+GitHub repository URL: ______________________
+Directory path: Lab_Thread_Counter
